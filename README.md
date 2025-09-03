@@ -1,4 +1,4 @@
-## RabbitMQConsumerProducer
+## RabbitMQConsumerProducerExample
 
 This is a simple solution presenting the usage of
 RabbitMQ for sending messages from one application to another application.
